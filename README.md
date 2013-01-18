@@ -6,8 +6,8 @@ Usage
 -----
 `c:\>RubyRunner.exe filename [arguments]`
 
-filename: The path to the iron ruby compatible script.
-arguments: arguments to pass to the script
+**filename**: The path to the iron ruby compatible script.  
+**arguments**: arguments to pass to the script
 
 **Note**: The way it passes the arguments to the ruby script is by adding each of them to the ARGV ruby variable (ARGV << argument)
 
