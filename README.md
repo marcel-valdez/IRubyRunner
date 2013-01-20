@@ -1,6 +1,6 @@
 IRubyRunner
 ----------
-This is a simple application that runs an iron ruby compatible script.
+This is a simple command-line application that runs an iron ruby compatible script.
 
 Usage
 -----
